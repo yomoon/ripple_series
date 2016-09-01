@@ -172,6 +172,7 @@ function changeAllProductPagesUIWording(arr,lang_index){
   document.getElementById('lang_naveng').innerHTML = arr[lang_index].lang_naveng;
   //document.getElementById('lang_navjp').innerHTML = arr[lang_index].lang_navjp;
 
+  document.getElementById('lang_navshop').innerHTML = arr[lang_index].lang_navshop;
   //document.getElementById('lang_nav_order_btn').innerHTML = arr[lang_index].lang_nav_order_btn;
 
   document.getElementById('lang_p_tab_central').innerHTML = arr[lang_index].lang_p_tab_central;
