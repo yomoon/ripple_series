@@ -1,5 +1,5 @@
 [
-    {
+   {
       "lang_title_products": "EQL - Ripple",
       "lang_navlink1": "特色",
       "lang_navlink2": "產品<b class=\"caret\"></b>",
@@ -15,7 +15,7 @@
       "lang_navlink12": "APP",
       "lang_navcht": "TW - 繁體中文",
       "lang_naveng": "EN - 英文",
-      "lang_nav_order_btn": "馬上購買",
+      "lang_navshop": "線上商店",
       "lang_p_tab_central": "CENTRAL",
       "lang_p_tab_door": "DOOR",
       "lang_p_tab_light": "LIGHT",
@@ -208,8 +208,8 @@
       "lang_p_weather_spec_press_cont": "260 ~ 1260 mbar",
       "lang_p_weather_spec_hires": "High Resolution Mode",
       "lang_p_weather_spec_hires_cont": "0.020 mbar RMS"
-    },
-    {
+   },
+   {
       "lang_title_products": "EQL - Ripple",
       "lang_navlink1": "Intro",
       "lang_navlink2": "Products<b class=\"caret\"></b>",
@@ -225,7 +225,7 @@
       "lang_navlink12": "APP",
       "lang_navcht": "TW - Traditional Chinese",
       "lang_naveng": "EN - English",
-      "lang_nav_order_btn": "Order",
+      "lang_navshop": "Online Shop",
       "lang_p_tab_central": "CENTRAL",
       "lang_p_tab_door": "DOOR",
       "lang_p_tab_light": "LIGHT",
@@ -418,8 +418,8 @@
       "lang_p_weather_spec_press_cont": "260 ~ 1260 mbar",
       "lang_p_weather_spec_hires": "High Resolution Mode",
       "lang_p_weather_spec_hires_cont": "0.020 mbar RMS"
-    },
-    {
+   },
+   {
       "lang_title_products": "EQL - Ripple",
       "lang_navlink1": "Intro",
       "lang_navlink2": "Products<b class=\"caret\"></b>",
@@ -628,5 +628,5 @@
       "lang_p_weather_spec_press_cont": "260 ~ 1260 mbar",
       "lang_p_weather_spec_hires": "High Resolution Mode",
       "lang_p_weather_spec_hires_cont": "0.020 mbar RMS"
-    }
+   }
 ]
